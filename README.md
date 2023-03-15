@@ -1,4 +1,4 @@
-# Portifolio
+# kevi.site
 Repo do meu portifolio.
 
 <img src="./portifolio.png" />
@@ -23,4 +23,4 @@ Repo do meu portifolio.
 </ul>
 
 ### App
-Link para o <a href="https://kevi.site/"> App </a>.
+Link para o <a href="https://kevi.site/"> Portifolio </a>.
